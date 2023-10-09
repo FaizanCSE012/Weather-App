@@ -1,6 +1,4 @@
 # Weather App With JavaScript
-
-
 ## Overview
 
 The Weather App with JavaScript is a simple web application that allows users to check the weather conditions for a specific location. It provides real-time weather information, including temperature, description, humidity, and wind speed.
