@@ -1,6 +1,5 @@
 # Weather App With JavaScript
 
-![Weather App Screenshot](/assets/ss.png)
 
 ## Overview
 
